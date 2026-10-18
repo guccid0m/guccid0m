@@ -2,12 +2,14 @@ name: Daily Random Fact
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs automatically every day at 8:00 AM UTC (1:00 AM Pacific)
-  workflow_dispatch:    # Lets you trigger it manually with a button anytime
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
