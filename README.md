@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.
+> 💡 **Did you know?** The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!
 <!-- FACT-END -->
