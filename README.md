@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.
+> 💡 **Did you know?** In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.
 <!-- FACT-END -->
