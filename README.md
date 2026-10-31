@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.
+> 💡 **Did you know?** Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
 <!-- FACT-END -->
