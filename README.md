@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Nepal is the only country that doesn’t have a rectangular flag.
+> 💡 **Did you know?** “Duff” is the decaying organic matter found on a forest floor.
 <!-- FACT-END -->
