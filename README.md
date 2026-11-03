@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** “Duff” is the decaying organic matter found on a forest floor.
+> 💡 **Did you know?** The average human head weighs about 8 pounds.
 <!-- FACT-END -->
