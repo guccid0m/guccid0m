@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.
+> 💡 **Did you know?** The past-tense of the English word “dare” is “durst”
 <!-- FACT-END -->
