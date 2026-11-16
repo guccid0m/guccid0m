@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Most household dust is made of dead skin cells.
+> 💡 **Did you know?** Daniel Boone hated coonskin caps.
 <!-- FACT-END -->
