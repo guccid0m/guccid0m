@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Daniel Boone hated coonskin caps.
+> 💡 **Did you know?** Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
 <!-- FACT-END -->
