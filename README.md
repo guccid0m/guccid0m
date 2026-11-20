@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** A pregnant goldfish is called a twit.
+> 💡 **Did you know?** Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
 <!-- FACT-END -->
