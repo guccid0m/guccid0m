@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
+> 💡 **Did you know?** Eskimos have over 15 words for the English word of 'Snow'
 <!-- FACT-END -->
