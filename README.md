@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** "Stewardesses" is the longest word typed with only the left hand.
+> 💡 **Did you know?** Greenland is the largest island in the world.
 <!-- FACT-END -->
