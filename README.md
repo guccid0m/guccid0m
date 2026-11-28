@@ -39,5 +39,5 @@ I specialize in supply chain operations, inventory management, and operational l
 
 ### 🧠 Random Fact of the Day
 <!-- FACT-START -->
-> 💡 **Did you know?** Koala is Aboriginal for "no drink".
+> 💡 **Did you know?** "I am." is the shortest complete sentence in the English language.
 <!-- FACT-END -->
